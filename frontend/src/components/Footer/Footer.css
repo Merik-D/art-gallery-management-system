@@ -1,0 +1,21 @@
+.footer{
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: azure;
+}
+
+.footer-container {
+    margin-left: 50px;
+}
+
+.footer-container div{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.footer-container p{
+    margin: 0;
+}

@@ -1,0 +1,7 @@
+.panel {
+  display: flex;
+  align-items: baseline;
+  place-content: stretch space-around;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+}

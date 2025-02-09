@@ -1,0 +1,15 @@
+.artworks {
+  margin: 0 auto;
+  /* margin-left: 70px; */
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-evenly;
+  /* align-items: center; */
+  /* flex-direction: row; */
+}
+
+.view_more {
+  display: flex;
+  justify-content: center;
+}
