@@ -9,4 +9,4 @@
 ```npm run migration:generate```
 ```npm run migration:run```
 3. Виконати команду для запуску:
-```npm start```
+```npm run start```
